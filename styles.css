@@ -1,0 +1,29 @@
+/* add your CSS here */
+body {
+    border: 1px solid gray;
+    width: 300px;
+    padding: 0px 15px 15px;
+    box-shadow: 10px 10px 5px grey;
+}
+
+img {
+    width: 300px;
+}
+
+.fact {
+    font-style: italic;
+}
+
+ul li span {
+    font-weight: bold;
+}
+
+ul {
+    display: inline;
+    list-style: none;
+}
+
+.info {
+    border: 1px solid gray;
+    padding: 10px;
+}
